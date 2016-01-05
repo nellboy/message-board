@@ -10,5 +10,5 @@
  */
 angular
   .module('messageBoardApp', [
-    'ngResource'
+    'ngResource', 'ui.bootstrap'
   ]);
