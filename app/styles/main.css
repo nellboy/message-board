@@ -1,0 +1,14 @@
+.message {
+  display: block;
+  padding: 10px;
+  margin: 20px 0;
+  background: #999;
+}
+
+.message-poster {
+  font-style: italic;
+}
+
+.message-body {
+  font-size: 120%;
+}
