@@ -12,3 +12,19 @@
 .message-body {
   font-size: 120%;
 }
+
+.form-horizontal {
+  margin-bottom: 50px;
+}
+
+.errors {
+  margin-top: 20px;
+}
+
+.error {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 10px;
+  background: red;
+  color: white;
+}
