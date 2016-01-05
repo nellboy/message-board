@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "poster": "Paul Nelligan",
+      "message": "Hello World"
+    },
+    {
+      "poster": "Paul Nelligan",
+      "message": "Goodbye Cruel World!"
+    }
+  ]
+}
