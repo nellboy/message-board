@@ -2,5 +2,8 @@
   "name": "message-board",
   "version": "0.1.0",
   "devDependencies": {
+    "bower": "^1.7.2",
+    "grunt-cli": "^0.1.13",
+    "yo": "^1.5.1"
   }
 }
